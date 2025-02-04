@@ -7,6 +7,11 @@ If you see my scripts being sold, that's not me. All my scripts are free and can
 - Added Effects (Client Side)
 - Mags should be fixed, if not DM me
 
+  (2/4/25)
+
+  - Fix constant lag on mags
+  - Sliders added for mags
+
 
 
 
