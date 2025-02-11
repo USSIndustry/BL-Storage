@@ -12,6 +12,10 @@ If you see my scripts being sold, that's not me. All my scripts are free and can
   - Fix constant lag on mags
   - Sliders added for mags
 
+  (2/10/25)
+
+  - Added Auto Afk
+
 
 
 
