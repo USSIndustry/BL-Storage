@@ -15,6 +15,10 @@ If you see my scripts being sold, that's not me. All my scripts are free and can
   (2/10/25)
 
   - Added Auto Afk
+ 
+  (2/14/25)
+
+  - Script moved.
 
 
 
